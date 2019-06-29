@@ -1,0 +1,12 @@
+ul  :hover{
+    cursor: pointer;   
+}
+
+.line{
+    cursor: pointer;
+    text-decoration: line-through;
+}
+
+.none{
+    text-decoration: none;
+}
